@@ -1,5 +1,3 @@
-function butter(...a) {
-  return a;
-}
+let a = "hello world"
 
-console.log(butter(1, 2, 3));
+console.log(a)

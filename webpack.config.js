@@ -16,7 +16,7 @@ module.exports = {
     ]
   },
   devServer: {
-    port: 3000, // most common port
+    port: 3002, // most common port
     contentBase: './build',
     inline: true
   }
